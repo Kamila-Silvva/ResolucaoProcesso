@@ -9,5 +9,3 @@ public class Inversão {
         System.out.println("String invertida: " + strInvertida);
     }
 }
-it config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
